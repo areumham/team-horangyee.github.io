@@ -117,7 +117,7 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: Team-HORANGYEE/team-horangyee.github.io # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    issue_term: Issue title contains page pathname # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
