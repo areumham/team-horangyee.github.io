@@ -7,7 +7,7 @@ IAM 기반 권한 관리부터 STS AssumeRole, VPC 네트워크 구성까지 전
 
 📄 전체 실습 정리 PDF
 
-[AWS 기초 실습 정리 PDF 보기](/assets/pdf/aws-basics.pdf)
+[AWS 기초 실습 정리 PDF 보기]/assets/aws_basics.pdf)
 
 글 구성 요약
 
